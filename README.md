@@ -80,4 +80,4 @@ CREATE TABLE students (
 
 ## Security note
 
-The database settings use XAMPP's defaults (`root` with an empty password), which is fine on your own computer. **Never commit real server passwords** to GitHub.
+The database settings use XAMPP's defaults (`root` with an empty password), which is fine on your own computer. 
